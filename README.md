@@ -11,7 +11,7 @@
 <body>
     <div class="container">
        <div class="avatar">
-        <img src="https://i.pinimg.com/564x/eb/57/6f/eb576ff023487bcb1fa3ad61ee7b23ee.jpg" alt="">
+        <img src="327319098_955320419208434_3283701952206291409_n.jpg" alt="">
        </div>
        <div class="name">
             <h1>Dinh Truong An</h1>
